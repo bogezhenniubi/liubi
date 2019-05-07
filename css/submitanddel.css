@@ -1,0 +1,35 @@
+*{
+	margin:0;
+	padding:0;
+}
+table{
+	margin:20px auto;
+}
+table,th,td{
+	border:1px solid #000;
+	border-collapse:collapse;
+}
+td,th{
+	padding:5px;
+}
+.bottom{
+	border:1px solid #444;
+	width:330px;
+	margin:40px auto;
+}
+h2{
+	margin:10px;
+}
+span{
+	display:inline-block;
+	margin:0 0 10px 10px;
+}
+.input{
+	float:right;
+	margin-right:90px;
+}
+#btn{
+	display:block;
+	margin:0 auto 8px;
+	padding:2px;
+}
